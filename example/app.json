@@ -1,0 +1,22 @@
+{
+  "name": "miguel-rosa-rn-title-example",
+  "displayName": "MiguelRosaRnTitle Example",
+  "expo": {
+    "name": "miguel-rosa-rn-title-example",
+    "slug": "miguel-rosa-rn-title-example",
+    "description": "Example app for miguel-rosa-rn-title",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
